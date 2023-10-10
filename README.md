@@ -1,6 +1,8 @@
 # WeatherApp
 Aplikacja zrealizowana jako zadanie nr 1 (Programowanie aplikacji mobilnych i webowych, Laboratoria)
 
+Wykorzystuje AccuWeather API (6 endpoint'ów)
+
 
 Przykład działania aplikacji:
 ![app_warsaw](https://github.com/Anna3001/WeatherApp/assets/110662890/75891c72-7a6e-4912-81a3-7c6bcd70c946)
