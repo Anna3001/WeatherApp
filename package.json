@@ -1,0 +1,15 @@
+{
+  "name": "weatherapp",
+  "productName": "MyWeatherApp",
+  "version": "1.0.0",
+  "description": "Weather application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Anna Wojcik",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^26.3.0"
+  }
+}
