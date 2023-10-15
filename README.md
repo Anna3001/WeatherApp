@@ -1,5 +1,5 @@
 # WeatherApp
-Aplikacja zrealizowana jako zadanie nr 1 (Programowanie aplikacji mobilnych i webowych, Laboratoria)
+Aplikacja desktop zrealizowana jako zadanie nr 1 (Programowanie aplikacji mobilnych i webowych, Laboratoria)
 
 Wykorzystuje AccuWeather API (6 endpoint'ów)
 
